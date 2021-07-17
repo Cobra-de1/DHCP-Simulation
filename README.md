@@ -6,7 +6,11 @@
 
   - This is my Basic network programming class final project
 
+  - My 2 teammates: neji-uit, R3db00t
+
 ### Requirement
+
+  - Windows 10
 
   - .NET Framework 4.8
 
